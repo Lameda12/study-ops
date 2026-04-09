@@ -1,0 +1,6 @@
+notes/
+output/
+reports/
+*.pdf
+node_modules/
+.env

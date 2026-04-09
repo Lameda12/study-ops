@@ -1,0 +1,22 @@
+student:
+  name: ""
+  university: ""
+  year: ""
+
+courses:
+  - name: ""         # e.g. "CSCI 2110 - Data Structures"
+    short: ""        # e.g. "DS"
+    exam_date: ""    # YYYY-MM-DD
+    weight: ""       # e.g. "40% of final grade"
+    weak_areas: []   # fill as you discover them
+    notes_dir: ""    # e.g. notes/ds/
+
+study_style:
+  preferred_session_length: "45min"   # how long you like to study
+  best_time: "evening"                # morning / afternoon / evening
+  method: "active recall"             # active recall / spaced repetition / mixed
+
+goals:
+  target_grades:
+    - course: ""
+      target: ""    # e.g. "A" or "85%"
